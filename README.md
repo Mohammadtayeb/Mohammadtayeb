@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mohammadtayeb
 - 👀 I’m interested in Mobile Applications and AI.
 - 🌱 I’m currently learning Web Development with python and javascript.
-- 💞️ I’m looking to collaborate on AI and Web issuies.
+- 💞️ I’m looking to collaborate on AI and Web issues.
 - 📫 You can reach me on github and also in insta: Tayeb Bayani.
 
 <!---
