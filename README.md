@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mohammadtayebbayani@gmail.com**
 
-- ⚡ Fun fact **I think I am a lazy.**
+- ⚡ Fun fact **I think I am a lazy one:).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
